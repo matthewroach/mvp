@@ -1,0 +1,14 @@
+{
+  "name": "mvp",
+  "version": "0.1.0",
+  "description": "A lambda function for handling MVP voting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Roach",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb": "^2.2.9"
+  }
+}
